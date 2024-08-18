@@ -9,4 +9,4 @@ Price of the product = m\
 Cost of development = c\
 Profit = y\
 Financial equation:\
-y = m*x(t)-c\
+y = m*x(t)-c
